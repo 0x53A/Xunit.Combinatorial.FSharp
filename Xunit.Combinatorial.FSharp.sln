@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Xunit.Combinatorial.FSharp", "Xunit.Combinatorial.FSharp\Xunit.Combinatorial.FSharp.fsproj", "{059A5476-5EDB-4408-B6EC-21F029D1563A}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Xunit.Combinatorial.FSharp.Tests", "Xunit.Combinatorial.FSharp.Tests\Xunit.Combinatorial.FSharp.Tests.fsproj", "{62C98D02-DDCC-4DDA-BF68-DE4356A1C6C4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{059A5476-5EDB-4408-B6EC-21F029D1563A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{059A5476-5EDB-4408-B6EC-21F029D1563A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{059A5476-5EDB-4408-B6EC-21F029D1563A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62C98D02-DDCC-4DDA-BF68-DE4356A1C6C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62C98D02-DDCC-4DDA-BF68-DE4356A1C6C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62C98D02-DDCC-4DDA-BF68-DE4356A1C6C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62C98D02-DDCC-4DDA-BF68-DE4356A1C6C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
